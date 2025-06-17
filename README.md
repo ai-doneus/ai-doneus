@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ai-doneus</h1>
+<h1 align="center">Hi 👋, I'm Umaganesh</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 <h3 align="center"> I’m currently working on a DEMO CRM with laravel </h3>
 
