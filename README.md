@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umaganesh</h1>
-<h3 align="center">A passionate frontend developer from Colombo, Srilanka</h3>
+<h3 align="center">A passionate developer from Colombo, Srilanka</h3>
 <h3 align="left"> I’m currently working on a DEMO CRM with laravel </h3>
 <h4 align="left"> I have had the opportunity to handle 2024 PARIS Olympics Data and implement databasedesign and Python integration using procedures and triggers. </h3>
 <h4 align="left"> I also have background with MERN stack where i contributed in the creation of an education portal . </h3>
@@ -20,9 +20,9 @@
 </p>
 <!--
 **ai-doneus/ai-doneus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
