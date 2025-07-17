@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Umaganesh</h1>
+<!-- h1 align="center">Hi 👋, I'm Umaganesh</h1> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=500&center=true&vCenter=true&width=500&height=70&color=2cf1eb&duration=5000&lines=Hi+There!+👋;+I'm+Umaganesh+👽;" />
+</h1>
 <h3 align="center">A passionate developer from Colombo, Srilanka</h3>
 <h3 align="left"> I’m currently working on a DEMO CRM with laravel </h3>
 <h4 align="left"> I have had the opportunity to handle 2024 PARIS Olympics Data and implement databasedesign and Python integration using procedures and triggers. </h3>
